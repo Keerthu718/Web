@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+font-family: 'Lobster', cursive;
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.nav-link{
+color: wheat !important;
+}
+.nav-item{
+    color: white !important;
+}
+.navbar-brand{
+    font-family: emoji !important;
+    color: white !important;
+}
+nav ul li{
+    padding-right: 48px;
+}
+nav ul li a{
+ font-family: emoji;
+ color: white !important;
+}
+nav ul li a:hover{
+    color:rgb(0, 247, 255) !important;
+}
+.navbar{
+    background-color:black !important;
+}
+.w-100{
+    height: 75vh;
+}
+.slider{
+    width: 100%;
+}
+h1{
+    position: absolute;
+    top: -922%;
+    left: 74px;
+    text-align: center;
+    color: white;
+    font-family: emoji;
+    font-size: 65px !important;
+}
+button{
+    width: 200px;
+    height: 53px;
+    border-radius: 25px !important;
+    border: 2px solid grey;
+    font-weight: bold;
+    background: black;
+    color: white;
+    font-family: emoji !important;
+    cursor: pointer !important;
+}
+button:hover{
+    background: transparent;
+    border: 2px solid white;
+}
+.mainbutton{
+    position: absolute;
+    top: 75%;
+    left: 27%;
+}
+.btn2{
+    border: 2px solid white;
+    background: transparent;
+}
+.btn2:hover{
+    background: transparent;
+    border: 2px solid grey;
+    background: black;
+}
+h3{
+    position: absolute;
+    top: -688%;
+    left: 74px;
+    text-align: center;
+    color: white;
+    font-family: emoji;
+    font-size: 37px !important;
+}
+
+.about{
+    margin-top: 40px;
+    
+}
+h5{
+    font-family: emoji;
+    color: black;
+    font-size: 36px !important;
+}
+.pd{
+    margin-top: 155px;
+}
+.course{
+    margin-top: 20px;
+    font-family: emoji;
+    font-size: 30px;
+}
+.abthead{
+    font-family: emoji;
+    font-size: 33px;
+    color: black;
+}
+.fa-rocket{
+    color:green; 
+}
+.fa-globe{
+    color: green;
+   
+}
+.btn-primay{
+    color: white !important;
+    background: green !important;
+    height: 36px;
+    width: 192px;
+}
+.Initial{
+    font-size: 25px !important;
+}
+.project{
+   margin-top: 55px;
+}
+.more{
+    font-family: emoji;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+.our{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    font-family: emoji;
+    margin-top: 30px;
+}
+.img{
+    margin-top: 20px;
+}
+.img-ht{
+    height: 279px;
+    width: 288px;
+}
+.team{
+    background-color: rgb(164, 31, 226);
+}
+.talent{
+    font-size: 31px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-family: emoji !important;
+}
+.name{
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: emoji !important;
+}
+.work{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-family: emoji !important;
+}
+.contact{
+    margin-top: 25px;
+    background: white;
+}
+.con{
+    margin-top: 48px;
+}
+.feel-free{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: emoji !important;
+}
+.form{
+    margin-top: 105px;
+}
+.form-row{
+    padding: 3px;
+    height: 61px;
+    width: 521px;
+}
+.textarea{
+    height: 94px;
+    width: 504px;
+}
+.btn-light{
+    color: white !important;
+    background: green !important;
+    height: 43px;
+    width: 266px;
+    margin-top: 48px;
+}
+.footer{
+    background: #17dada;
+    height: 143px;
+}
+.copyrights{
+    margin-top: 36px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 31px;
+    padding-top: 43px;
+    font-family: emoji !important;
+}
+.follow-us{
+   text-align: center;
+    font-size: 22px;
+    font-family: emoji !important;
+}
